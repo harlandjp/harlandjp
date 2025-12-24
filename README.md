@@ -1,1 +1,81 @@
-Hello!
+## 👋 Hi — I’m Jonathan. People also call me Jsosa.
+
+I’m an engineering leader with 20+ years of experience building and scaling software products used by millions worldwide. I partner closely with CEOs and product leaders to turn strategy into execution—while building teams and systems that get better every quarter.
+
+**Currently:** Head of Engineering at Foundation LLM Technologies Inc. (AI tools for design & manufacturing).  
+**Based in:** Tokyo, Japan 🌏 (global teams / cross-timezone leadership is my default)
+
+---
+
+## 🧭 Leadership snapshot
+
+- 🧑‍💻 **Engineering org design & scaling** (teams, structure, rituals, operating cadence)
+- 🧲 **Hiring & talent density** (role design, interview loops, leveling, onboarding, retention)
+- ✅ **Delivery without chaos** (predictable execution, stakeholder alignment, real-time visibility)
+- 🧱 **Strong technical foundations** (standards, tech debt strategy, developer productivity, quality)
+- 🧠 **Product-minded engineering** (customer impact, prioritization, measurable outcomes)
+
+---
+
+## 🏗️ Selected experience
+
+- **Foundation LLM Technologies (MIT-born Silicon Valley startup) — Head of Engineering**  
+  Building AI tools for design & manufacturing.
+
+- **Drivemode (Honda’s software innovation arm) — VP of Engineering**  
+  Led development of an in-vehicle infotainment platform and companion apps for Honda’s electric vehicles.
+
+- **Mercari (Japan’s first unicorn) — Director of Engineering**  
+  Led teams behind Mercari’s mobile and web applications tailored for the US market.
+
+- **Rakuten — Group Manager**  
+  Led the Digital Content Platform Development Group.
+
+I've also contributed to multiple Japanese tech startups’ growth: Teracy Inc, myBest Inc, Canary Inc and LOOV Inc.
+
+---
+
+## 📚 Writing
+
+I’m the author of **_From Culture to Code: Leading Software Engineering Teams Effectively_** (Apress / Springer).
+
+It’s a practical guide to:
+- building influence and presence as a leader
+- hiring and developing great teams
+- goal-setting (including OKRs), performance, and feedback
+- choosing tech stacks, best practices, and managing technical debt
+
+📘 Book page: https://link.springer.com/book/10.1007/979-8-8688-1428-0
+
+---
+
+## 🧩 A few more facts
+
+- 🎓 Computer Science honors graduate — **Tecnológico de Monterrey**
+- 🌍 Multilingual
+- 📜 US patent holder
+- 🏃 Agile certifications: Product Owner & Scrum Master
+
+---
+
+## 🛠️ What I tend to work on
+
+- AI / LLM-enabled products
+- Mobile + web platforms at scale
+- In-vehicle / mobility software ecosystems
+- Platform engineering, dev productivity, and operational excellence
+- Building engineering organizations
+
+---
+
+## 💻 My favorite programming languages
+
+- Python
+- Typescript
+- Swift
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: https://www.linkedin.com/in/jonathan-sosa-34ab83122
