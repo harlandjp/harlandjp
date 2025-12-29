@@ -33,7 +33,7 @@ I’m an software engineering leader with 20+ years of experience building and s
 - **[Rakuten](https://www.rakuten.com/) — Group Manager**  
   Led the Digital Content Platform Development Group.
 
-I've also contributed to multiple Japanese tech startups’ growth: [Teracy](https://teracy.io/), [myBest](https://my-best.com/), [Canary](https://web.canary-app.jp/chintai/) and [LOOV](https://www.loov.co.jp/).
+I've also contributed to Japanese tech startups [Teracy](https://teracy.io/), [myBest](https://my-best.com/), [Canary](https://web.canary-app.jp/chintai/) and [LOOV](https://www.loov.co.jp/).
 
 ---
 
