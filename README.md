@@ -1,5 +1,17 @@
 ## 👋 Hi — I’m Jonathan.
 
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/5825448?v=4"
+    width="100"
+    style="
+      border-radius: 50%;
+      border: 4px solid #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    "
+  />
+</p>
+
 I’m an software engineering leader with 20+ years of experience building and scaling software products used by millions worldwide.
 
 **Currently:** Head of Engineering at Foundation LLM Technologies Inc. (AI tools for design & manufacturing).  
