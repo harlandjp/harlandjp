@@ -1,19 +1,9 @@
 ## 👋 Hi — I’m Jonathan.
 
-I’m an engineering leader with 20+ years of experience building and scaling software products used by millions worldwide.
+I’m an software engineering leader with 20+ years of experience building and scaling software products used by millions worldwide.
 
 **Currently:** Head of Engineering at Foundation LLM Technologies Inc. (AI tools for design & manufacturing).  
 **Based in:** Tokyo, Japan 🌏 (global teams / cross-timezone leadership is my default)
-
----
-
-## 🧭 Leadership snapshot
-
-- 🧑‍💻 **Engineering org design & scaling** (teams, structure, rituals, operating cadence)
-- 🧲 **Hiring & talent density** (role design, interview loops, leveling, onboarding, retention)
-- ✅ **Delivery without chaos** (predictable execution, stakeholder alignment, real-time visibility)
-- 🧱 **Strong technical foundations** (practices, tech debt strategy, developer productivity, quality)
-- 🧠 **Product-minded engineering** (customer impact, prioritization, measurable outcomes)
 
 ---
 
@@ -31,7 +21,7 @@ I’m an engineering leader with 20+ years of experience building and scaling so
 - **Rakuten — Group Manager**  
   Led the Digital Content Platform Development Group.
 
-I've also contributed to multiple Japanese tech startups’ growth: Teracy Inc, myBest Inc, Canary Inc and LOOV Inc.
+I've also contributed to multiple Japanese tech startups’ growth: Teracy Inc., myBest Inc., Canary Inc. and LOOV Inc.
 
 ---
 
@@ -51,7 +41,7 @@ It’s a practical guide to:
 
 ## 🧩 A few more facts
 
-- 🎓 Computer Science honors graduate — **Tecnológico de Monterrey**
+- 🎓 Computer Science honors graduate — Tecnológico de Monterrey
 - 🌍 Multilingual
 - 📜 US patent holder
 - 🏃 Agile certifications: Product Owner & Scrum Master
@@ -60,11 +50,11 @@ It’s a practical guide to:
 
 ## 🛠️ What I tend to work on
 
-- AI / LLM-enabled products
-- Mobile + web platforms at scale
+- AI-enabled products
+- Mobile and web platforms with millions of users
 - In-vehicle / mobility software ecosystems
 - Platform engineering, dev productivity, and operational excellence
-- Building engineering organizations
+- Hiring and engineering organization growth
 
 ---
 
