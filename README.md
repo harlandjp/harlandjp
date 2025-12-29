@@ -72,8 +72,8 @@ It’s a practical guide to:
 
 ## 💻 My favorite programming languages
 
+- TypeScript
 - Python
-- Typescript
 - Swift
 
 ---
