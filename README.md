@@ -1,6 +1,6 @@
-## 👋 Hi — I’m Jonathan. People also call me Jsosa.
+## 👋 Hi — I’m Jonathan.
 
-I’m an engineering leader with 20+ years of experience building and scaling software products used by millions worldwide. I partner closely with CEOs and product leaders to turn strategy into execution—while building teams and systems that get better every quarter.
+I’m an engineering leader with 20+ years of experience building and scaling software products used by millions worldwide.
 
 **Currently:** Head of Engineering at Foundation LLM Technologies Inc. (AI tools for design & manufacturing).  
 **Based in:** Tokyo, Japan 🌏 (global teams / cross-timezone leadership is my default)
@@ -12,7 +12,7 @@ I’m an engineering leader with 20+ years of experience building and scaling so
 - 🧑‍💻 **Engineering org design & scaling** (teams, structure, rituals, operating cadence)
 - 🧲 **Hiring & talent density** (role design, interview loops, leveling, onboarding, retention)
 - ✅ **Delivery without chaos** (predictable execution, stakeholder alignment, real-time visibility)
-- 🧱 **Strong technical foundations** (standards, tech debt strategy, developer productivity, quality)
+- 🧱 **Strong technical foundations** (practices, tech debt strategy, developer productivity, quality)
 - 🧠 **Product-minded engineering** (customer impact, prioritization, measurable outcomes)
 
 ---
