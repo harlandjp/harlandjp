@@ -6,7 +6,7 @@
     width="100"
     style="
       border-radius: 50%;
-      border: 1px solid #999;
+      border: 1px solid #aaa;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     "
   />
@@ -21,19 +21,19 @@ I’m an software engineering leader with 20+ years of experience building and s
 
 ## 🏗️ Selected experience
 
-- **Foundation LLM Technologies (MIT-born Silicon Valley startup) — Head of Engineering**  
+- **[Foundation LLM Technologies](https://www.foundationegi.com/) (MIT-born Silicon Valley startup) — Head of Engineering**  
   Building AI tools for design & manufacturing.
 
-- **Drivemode (Honda’s software innovation arm) — VP of Engineering**  
+- **[Drivemode](https://www.drivemode.com/) (Honda’s software innovation arm) — VP of Engineering**  
   Led development of an in-vehicle infotainment platform and companion apps for Honda’s electric vehicles.
 
-- **Mercari (Japan’s first unicorn) — Director of Engineering**  
+- **[Mercari](https://www.mercari.com/) (Japan’s first unicorn) — Director of Engineering**  
   Led teams behind Mercari’s mobile and web applications tailored for the US market.
 
-- **Rakuten — Group Manager**  
+- **[Rakuten](https://www.rakuten.com/) — Group Manager**  
   Led the Digital Content Platform Development Group.
 
-I've also contributed to multiple Japanese tech startups’ growth: Teracy Inc., myBest Inc., Canary Inc. and LOOV Inc.
+I've also contributed to multiple Japanese tech startups’ growth: [Teracy](https://teracy.io/), [myBest](https://my-best.com/), [Canary](https://web.canary-app.jp/chintai/) and [LOOV](https://www.loov.co.jp/).
 
 ---
 
