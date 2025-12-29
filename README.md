@@ -6,7 +6,7 @@
     width="100"
     style="
       border-radius: 50%;
-      border: 1px solid #555;
+      border: 1px solid #999;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     "
   />
@@ -42,10 +42,10 @@ I've also contributed to multiple Japanese tech startups’ growth: Teracy Inc.,
 I’m the author of **_From Culture to Code: Leading Software Engineering Teams Effectively_** (Apress / Springer).
 
 It’s a practical guide to:
-- building influence and presence as a leader
-- hiring and developing great teams
-- goal-setting (including OKRs), performance, and feedback
-- choosing tech stacks, best practices, and managing technical debt
+- Building influence and presence as a leader
+- Hiring and developing great teams
+- Goal-setting (including OKRs), performance, and feedback
+- Choosing tech stacks, best practices, and managing technical debt
 
 📘 Book page: [https://link.springer.com/book/10.1007/979-8-8688-1428-0](https://link.springer.com/book/10.1007/979-8-8688-1428-0)
 
