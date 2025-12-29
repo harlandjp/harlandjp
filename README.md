@@ -78,4 +78,4 @@ It’s a practical guide to:
 
 ## 🤝 Let’s connect
 
-- LinkedIn: https://www.linkedin.com/in/jonathan-sosa-34ab83122
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sosa-34ab83122)
