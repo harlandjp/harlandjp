@@ -45,7 +45,7 @@ It’s a practical guide to:
 - goal-setting (including OKRs), performance, and feedback
 - choosing tech stacks, best practices, and managing technical debt
 
-📘 Book page: https://link.springer.com/book/10.1007/979-8-8688-1428-0
+📘 Book page: [https://link.springer.com/book/10.1007/979-8-8688-1428-0](https://link.springer.com/book/10.1007/979-8-8688-1428-0)
 
 ---
 
