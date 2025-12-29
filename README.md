@@ -6,7 +6,7 @@
     width="100"
     style="
       border-radius: 50%;
-      border: 4px solid #fff;
+      border: 1px solid #555;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     "
   />
