@@ -19,7 +19,7 @@ I’m an software engineering leader with 20+ years of experience building and s
 
 ---
 
-## 🏗️ Selected experience
+## 🏗️ Recent experience
 
 - **[Foundation LLM Technologies](https://www.foundationegi.com/) (MIT-born Silicon Valley startup) — Head of Engineering**  
   Building AI tools for design & manufacturing.
