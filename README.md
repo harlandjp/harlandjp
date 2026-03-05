@@ -62,19 +62,12 @@ It’s a practical guide to:
 
 ## 🛠️ What I tend to work on
 
-- AI-enabled products
 - Mobile and web platforms with millions of users
+- eCommerce
 - In-vehicle / mobility software ecosystems
 - Platform engineering, dev productivity, and operational excellence
 - Hiring and engineering organization growth
-
----
-
-## 💻 My favorite programming languages
-
-- TypeScript
-- Python
-- Swift
+- AI-enabled products
 
 ---
 
