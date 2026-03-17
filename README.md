@@ -15,7 +15,7 @@
 I’m an software engineering leader with 20+ years of experience building and scaling software products used by millions worldwide.
 
 **Currently:** Head of Engineering at Foundation LLM Technologies Inc. (AI tools for design & manufacturing).  
-**Based in:** Tokyo, Japan 🌏 (global teams / cross-timezone leadership is my default)
+**Based in:** Tokyo, Japan
 
 ---
 
