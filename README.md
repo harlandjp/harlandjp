@@ -41,7 +41,7 @@ I've also contributed to Japanese tech startups [Teracy](https://teracy.io/), [m
 
 I’m the author of **_From Culture to Code: Leading Software Engineering Teams Effectively_** (Apress / Springer).
 
-It’s a practical guide to:
+It’s a guide to:
 - Building influence and presence as a leader
 - Hiring and developing great teams
 - Goal-setting (including OKRs), performance, and feedback
